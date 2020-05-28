@@ -6,6 +6,7 @@ Requirements are [Flutter SDK](https://flutter.dev/docs/get-started/install) and
 ```bash
 $ git clone https://github.com/cyb3rcod3/flutter-openvidu-demo.git
 $ cd flutter-openvidu-demo
+$ flutter pub get
 $ flutter run
 ```
 Tested on Android and iOS
